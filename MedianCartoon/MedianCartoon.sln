@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MedianCartoon", "MedianCartoon\MedianCartoon.pyproj", "{89E54427-80AB-4E2F-B5EB-3E28AACDBF98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89E54427-80AB-4E2F-B5EB-3E28AACDBF98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E54427-80AB-4E2F-B5EB-3E28AACDBF98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17869177-6283-46D3-830E-2D529E50C5CE}
+	EndGlobalSection
+EndGlobal
